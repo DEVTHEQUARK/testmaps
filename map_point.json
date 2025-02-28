@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee Shop",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "description": "Лучшее место для утреннего кофе."
+  },
+  {
+    "id": 2,
+    "name": "Book Store",
+    "latitude": 37.7793,
+    "longitude": -122.4175,
+    "description": "Большой выбор книг и уютная атмосфера."
+  },
+  {
+    "id": 3,
+    "name": "Tech Hub",
+    "latitude": 37.7765,
+    "longitude": -122.4242,
+    "description": "Современное пространство для стартапов."
+  },
+  {
+    "id": 4,
+    "name": "Art Gallery",
+    "latitude": 37.7701,
+    "longitude": -122.4208,
+    "description": "Выставка современного искусства."
+  },
+  {
+    "id": 5,
+    "name": "Park",
+    "latitude": 37.7694,
+    "longitude": -122.4862,
+    "description": "Отличное место для прогулок и пикников."
+  }
+]
